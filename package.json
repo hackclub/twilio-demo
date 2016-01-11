@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/hackclub/twilio-demo.git"
   },
-  "author": "Max Wofford",
+  "author": "Max Wofford <max@hackclub.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hackclub/twilio-demo/issues"
