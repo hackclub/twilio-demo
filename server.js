@@ -53,7 +53,7 @@ app.use(function *() {
     // Drop our contacts list
     phone_numbers = [];
   }
-  this.body = 'success';
+  return;
 });
 
 app.listen(port);
